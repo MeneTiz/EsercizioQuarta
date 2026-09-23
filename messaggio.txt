@@ -1,1 +1,2 @@
 Benvenuto nel progetto.
+Qui impariamo a usare Git con VS Code.
